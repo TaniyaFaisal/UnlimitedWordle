@@ -1,7 +1,7 @@
 {
   "name": "wordle",
   "version": "0.1.0",
-  "homepage": "https://taniyafaisal.github.io/Wordle",
+  "homepage": "https://taniyafaisal.github.io/UnlimitedWordle",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",

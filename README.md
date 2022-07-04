@@ -1,4 +1,5 @@
-# WordleClone
-WordleClone with Reactjs
+# Unlimited Wordle - ReactJs
 
-Video tutorial for this wordle clone - [link](https://www.youtube.com/watch?v=8u1AI3PZmyQ)
+An online word game in which the player has to guess a five-letter word in six attempts.
+
+
