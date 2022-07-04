@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UnlimitedWordle/static/css/main.fd784a43.css",
+    "main.js": "/UnlimitedWordle/static/js/main.27b07695.js",
+    "index.html": "/UnlimitedWordle/index.html",
+    "main.fd784a43.css.map": "/UnlimitedWordle/static/css/main.fd784a43.css.map",
+    "main.27b07695.js.map": "/UnlimitedWordle/static/js/main.27b07695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd784a43.css",
+    "static/js/main.27b07695.js"
+  ]
+}
